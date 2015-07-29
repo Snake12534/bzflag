@@ -50,7 +50,7 @@ detailed below.
 BZFlag has two external dependencies: SDL 2 and c-ares.
 
 Download the latest version of the SDL 2 framework from
-https://www.libsdl.org/download-2.0.php. Version 2.0.4 or later is required.
+https://www.libsdl.org/download-2.0.php. Version 2.0.3 or later is required.
 Mount the disk image and place the file "SDL2.framework" in your
 /Library/Frameworks directory (an administrator's account may be required).
 
